@@ -1,0 +1,33 @@
+[
+    {
+    "idmenu" : 1,
+    "idkategori" : 1,
+    "menu" : "Es Campur",
+    "harga" : 3000,
+    "warna" : ["merah","kuning","hijau"],
+    "stok" : true,
+    "keterangan" : null
+    
+},
+{
+    "idmenu" : 2,
+    "idkategori" : 1,
+    "menu" : "Ikan Bakar",
+    "harga" : 4000,
+    "warna" : ["merah","kuning","hijau"],
+    "stok" : false,
+    "keterangan" : null
+    
+},
+{
+    "idmenu" : 2,
+    "idkategori" : 1,
+    "menu" : "Salak",
+    "harga" : 4000,
+    "warna" : ["merah","kuning","hijau"],
+    "stok" : false,
+    "keterangan" : null
+    
+}
+
+]
